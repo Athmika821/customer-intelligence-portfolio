@@ -80,7 +80,7 @@ See [examples/](examples/) for sample SQL models demonstrating:
 
 ## Contact
 
-**Aths** | AI Workflow Developer & Applied Analytics Specialist
+**Athmika T.P.** | AI Workflow Developer & Applied Analytics Specialist
 
 [LinkedIn](https://www.linkedin.com/in/athmika-t-p-a0a22b94/)
 
